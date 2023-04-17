@@ -1,0 +1,11 @@
+C:\Users\grego\Desktop\FAKS\3.letnik\Programiranje 3\Vaje9\Narisi\Kapljice\bin\Debug\Kapljice.exe.config
+C:\Users\grego\Desktop\FAKS\3.letnik\Programiranje 3\Vaje9\Narisi\Kapljice\bin\Debug\Kapljice.exe
+C:\Users\grego\Desktop\FAKS\3.letnik\Programiranje 3\Vaje9\Narisi\Kapljice\bin\Debug\Kapljice.pdb
+C:\Users\grego\Desktop\FAKS\3.letnik\Programiranje 3\Vaje9\Narisi\Kapljice\obj\Debug\Kapljice.csproj.AssemblyReference.cache
+C:\Users\grego\Desktop\FAKS\3.letnik\Programiranje 3\Vaje9\Narisi\Kapljice\obj\Debug\Kapljice.csproj.SuggestedBindingRedirects.cache
+C:\Users\grego\Desktop\FAKS\3.letnik\Programiranje 3\Vaje9\Narisi\Kapljice\obj\Debug\Kapljice.Form1.resources
+C:\Users\grego\Desktop\FAKS\3.letnik\Programiranje 3\Vaje9\Narisi\Kapljice\obj\Debug\Kapljice.Properties.Resources.resources
+C:\Users\grego\Desktop\FAKS\3.letnik\Programiranje 3\Vaje9\Narisi\Kapljice\obj\Debug\Kapljice.csproj.GenerateResource.cache
+C:\Users\grego\Desktop\FAKS\3.letnik\Programiranje 3\Vaje9\Narisi\Kapljice\obj\Debug\Kapljice.csproj.CoreCompileInputs.cache
+C:\Users\grego\Desktop\FAKS\3.letnik\Programiranje 3\Vaje9\Narisi\Kapljice\obj\Debug\Kapljice.exe
+C:\Users\grego\Desktop\FAKS\3.letnik\Programiranje 3\Vaje9\Narisi\Kapljice\obj\Debug\Kapljice.pdb
